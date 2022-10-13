@@ -1,0 +1,19 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callstack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gsandove/angularLearn.git"
+  },
+  "author": "George Sandoval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsandove/angularLearn/issues"
+  },
+  "homepage": "https://github.com/gsandove/angularLearn#readme"
+}
